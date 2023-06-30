@@ -6,3 +6,9 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 The goal is to do initial data and exploratory analysis on some of their data to extract insights and offer solutions for improved segmentation based on the parameters provided.
 ## Data
 Open source data were created from Instacart [here](https://www.instacart.com/datasets/grocery-shopping-2017).
+## Tools
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Scipy
